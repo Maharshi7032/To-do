@@ -24,8 +24,3 @@ To run this application, simply clone the repository and open `index.html` in yo
 
 - A modern web browser (Chrome, Firefox, Edge, etc.)
 
-### How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/todo-list-app.git
